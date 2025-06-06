@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bnguyen0192
 - 👀 I’m interested in Data Analysis and Data Visualization
-- 🌱 I’m currently learning Python, R, Tableau, and other data analysis tools
+- 🌱 I’m currently learning SQL, Tableau, Python, Power BI, and other data analysis tools
 - 💞️ I’m looking to collaborate on data analysis and visualization projects
 - 📫 How to reach me nguyenqd730@gmail.com
 
